@@ -1,5 +1,5 @@
 # Delimited-Control Operators shift0/dollar:
-- **Thesis**: *TBA*
+- **Thesis**: [A Fine-Grained Evaluation Strategy for Delimited-Control Operators shift0/dollar](Thesis.pdf)
 - **Contribution**:
   - Formalise `λ$` calculus with its **evaluation** strategy
   - Introduce an **evaluation** strategy for `λc$` (a fine-grained version of `λ$`)
